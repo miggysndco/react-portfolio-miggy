@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-miggy/static/css/main.5dbcc153.css",
+    "main.js": "/react-portfolio-miggy/static/js/main.e840f003.js",
+    "static/js/453.4143f8b9.chunk.js": "/react-portfolio-miggy/static/js/453.4143f8b9.chunk.js",
+    "static/media/about.jpg": "/react-portfolio-miggy/static/media/about.7459eb51d3c3dfd47580.jpg",
+    "static/media/profilepic.jpg": "/react-portfolio-miggy/static/media/profilepic.7459eb51d3c3dfd47580.jpg",
+    "static/media/project1.png": "/react-portfolio-miggy/static/media/project1.8997df02e63d125e5ca8.png",
+    "static/media/project2.png": "/react-portfolio-miggy/static/media/project2.c505806c592eb4e70da1.png",
+    "static/media/project3.jpg": "/react-portfolio-miggy/static/media/project3.5b4d0371bb15de925630.jpg",
+    "static/media/Miguel_Sandico_CV.pdf": "/react-portfolio-miggy/static/media/Miguel_Sandico_CV.e73d614c8a97fab9dfa8.pdf",
+    "index.html": "/react-portfolio-miggy/index.html",
+    "main.5dbcc153.css.map": "/react-portfolio-miggy/static/css/main.5dbcc153.css.map",
+    "main.e840f003.js.map": "/react-portfolio-miggy/static/js/main.e840f003.js.map",
+    "453.4143f8b9.chunk.js.map": "/react-portfolio-miggy/static/js/453.4143f8b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbcc153.css",
+    "static/js/main.e840f003.js"
+  ]
+}
